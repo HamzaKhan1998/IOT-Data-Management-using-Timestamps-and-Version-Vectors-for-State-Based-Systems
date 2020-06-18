@@ -2,6 +2,6 @@
 # This project was completed/tested by creating 3 nodes, simply copy paste the node folders as many times as the nodes.
 # Use command prompt to execute files.
 # Example Data/Arguments: 
-#               Client IDs: 1,2,3 
-#               MetaDataServer Ports: 4001,4002,4003
-#               FileServer Ports: 5001,5002,5003 
+#              -> Client IDs: 1,2,3 
+#              -> MetaDataServer Ports: 4001,4002,4003
+#              -> FileServer Ports: 5001,5002,5003 
