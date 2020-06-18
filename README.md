@@ -3,5 +3,5 @@
 # Use command prompt to execute files.
 # Example Data/Arguments: 
 #               Client IDs: 1,2,3 
-#               MetaDataServer Port: 4001,4002,4003
-#               FileServer Port: 5001,5002,5003 
+#               MetaDataServer Ports: 4001,4002,4003
+#               FileServer Ports: 5001,5002,5003 
